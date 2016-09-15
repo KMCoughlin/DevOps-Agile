@@ -4,7 +4,7 @@
 #A DevOps Tale...
 
 ---
-![fit](images/devops modem.png)
+![fit](devops modem.png)
 
 —--
 #The Challenge
@@ -19,7 +19,7 @@ Heavyweight development, "quality", manufacturing methods that critics described
 
 AKA - Waterfall
 
-![right fit](images/old guys agile.jpg)
+![right fit](old guys agile.jpg)
 
 ---
 # Agile Samurai
@@ -85,7 +85,7 @@ We are uncovering better ways of developing software by doing it and helping oth
 #That is, while there is value in the items on the right, we value the items on the left more.
 
 ---
-![fit](images/dilbert agile.jpg)
+![fit](dilbert agile.jpg)
 
 ---
 #12 Principles of Agile
@@ -124,32 +124,32 @@ We are uncovering better ways of developing software by doing it and helping oth
 -At regular intervals, the team __reflects__ on how to become more effective, then __tunes and adjusts__ its behavior accordingly.
 
 ---
-![fit](images/agile_broussard_sized.jpg)
+![fit](agile_broussard_sized.jpg)
 
 ---
 #Agile - What it looks like
 
-![inline fit](images/waterfall-v-agile-about.gif)
+![inline fit](waterfall-v-agile-about.gif)
 
 ---
 #Agile - What it looks like
 
-![inline fit](images/agile waterfall.jpg)
+![inline fit](agile waterfall.jpg)
 
 ---
 #Agile - What it looks like
 
-![inline fit](images/agile risk 2.jpg)
+![inline fit](agile risk 2.jpg)
 
 ---
 #Agile - What it looks like
 
-![inline fit](images/agile value quad.gif)
+![inline fit](agile value quad.gif)
 
 ---
 #Agile - Culture
 
-![inline fit](images/environment.tiff)
+![inline fit](environment.tiff)
 
 ---
 #Agile - Hours
@@ -160,18 +160,18 @@ We are uncovering better ways of developing software by doing it and helping oth
 ---
 #Agile -  Wardrobe
 
-![inline fit](images/coders.jpg)
+![inline fit](coders.jpg)
 
 ---
 #Agile - The Hoodie
 
-![inline fit](images/agile hoodie.tiff)
+![inline fit](agile hoodie.tiff)
 
 ---
 #Agile - The Hoodie - The Real Reason
 
-![inline fit](images/developer-hoodie.jpg)
+![inline fit](developer-hoodie.jpg)
 
 
 ---
-![inline fit](images/pulp agile.jpg)
+![inline fit](pulp agile.jpg)
